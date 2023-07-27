@@ -4,6 +4,7 @@ This is a webpage illustrating the impacts of the COVID-19 pandemic on Work, Col
 ## Table of Contents
 - [Installation](https://github.com/greeshmaganji/ImpactsofC-website/blob/e2b648b215c42385a1ea3090731eba7a097a46b4/index.html)
 - [Usage](#usage)
+- [Webpage](https://github.com/greeshmaganji/ImpactsofC-website/blob/31879097af6402fb00da54928c7fb5a9418619e6/index.html)
 - [Contributing](#contributing)
 - [License](#license)
 
