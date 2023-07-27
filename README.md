@@ -6,7 +6,7 @@ This is a webpage illustrating the impacts of the COVID-19 pandemic on Work, Col
 - [Usage](#usage)
 - [Webpage](https://github.com/greeshmaganji/ImpactsofC-website/blob/31879097af6402fb00da54928c7fb5a9418619e6/index.html)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) 
 
 ## Installation
 1. Clone the repository.
