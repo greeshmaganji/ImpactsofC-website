@@ -2,7 +2,7 @@
 This is a webpage illustrating the impacts of the COVID-19 pandemic on Work, Collaboration, and Education as a part of my Course Foundations of Web Technologies
 
 ## Table of Contents
-- [Installation](#installation)
+- [Installation](#index.html)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
